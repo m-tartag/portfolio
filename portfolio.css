@@ -1,0 +1,41 @@
+.jumbotron {
+    background-color: #336699;
+    color:white;
+    border-style: inset;
+    border-color:black;
+}
+
+#footer {
+    padding-bottom: 10px;
+    background-color: #40404;
+}
+
+.navbar-inverse {
+    background-color: #40404;
+    border-width:5px;
+    border-color: black;
+}
+
+.btn-primary {
+    background-color:#404040;
+    color:white;
+    border-color:black;
+    border-width:2px;
+}
+.navbar-inverse .navbar-brand {
+    color: white;
+    font-family: Tahoma;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    color: white;
+}
+
+body {
+    background-image: url(https://images.designtrends.com/wp-content/uploads/2015/12/15053549/Abstract-Grey-Background.png);
+    font-family: Tahoma;
+}
+
+.page-header {
+    color:white;
+}
